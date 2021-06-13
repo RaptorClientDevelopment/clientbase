@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "clientbase",
+    "name": "Clientbase",
+    "description": "A "
+    Hacked
+    Client
+    " Base ",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "ritomg"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
