@@ -45,8 +45,9 @@ public class Main {
      */
     @Mod.EventHandler
     public void init(FMLInitializationEvent event) {
-        modulemanager = new ModuleManager();
         SettingsManager.init();
+        modulemanager = new ModuleManager();
+        
     }
 
     /**
